@@ -44,5 +44,5 @@ public class MyFirstClass {
 // git init
 // git add .
 // git commit -m "TEKSTAS"
-// git remote add origin https://github.com/andriusbaltrunas/1-3_class_work_2018-03-20.git
+// git remote add origin https://github.com/andriusbaltrunas/1-3_class_work_2018-03-20.git // tik viena karta reikia
 // git push
