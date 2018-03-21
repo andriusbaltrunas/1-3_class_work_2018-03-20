@@ -7,6 +7,15 @@ import java.util.Scanner;
  */
 public class ThirdTask {
     public static void main(String[] args) {
+        int [][] matrix= {{12, 23, 24}, {123,2,2,4}};
+
+        for(int i = 0; i < matrix.length; i++){
+            for(int j = 0; j< matrix[i].length; j++){
+                int a = matrix[i][j];
+            }
+        }
+
+
 
         Scanner scanner = new Scanner(System.in);
         int sk = 0;
