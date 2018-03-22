@@ -7,6 +7,9 @@ import java.util.Scanner;
  */
 public class FirstTask {
 
+    //String a ="aaa aaa";
+    //a = a.replaceAll(" ", "");
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
